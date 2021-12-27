@@ -19,7 +19,7 @@
     "Edmund von der Burg <evdb@mysociety.org> (http://www.mysociety.org/)",
     "Marten Lienen <marten.lienen@gmail.com> (http://cqql.de)"
   ],
-  "main": "jade-amd",
+  "main": "index.js",
   "bin": {
     "jade-amd": "./bin/jade-amd"
   },
